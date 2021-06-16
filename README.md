@@ -4,7 +4,7 @@
 </p> 
 <h5 align="center">Professional Navigation with modern design.</h5>
 
-## Demo
+## React Css Example
 
 [Live App](https://jiue8.csb.app/)
 
